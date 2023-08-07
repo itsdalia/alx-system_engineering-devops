@@ -1,0 +1,2 @@
+#!/bin/bashsh
+tail -n 1 < iacta >> iacta
